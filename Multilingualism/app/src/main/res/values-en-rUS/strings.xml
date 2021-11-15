@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multilingualism</string>
+    <string name="click">Click Me!</string>
+    <string name="hello">Hello!</string>
+    <string name="contextmenu1">context1</string>
+    <string name="contextmenu2">context2</string>
+</resources>
